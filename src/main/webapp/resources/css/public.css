@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+ fieldset {
+      border: 0;
+    }
+    label {
+      display: block;
+      margin: 30px 0 0 0;
+    }
+    .overflow {
+      height: 200px;
+    }
+    #contents_sub{
+	width: 970px;
+	height: auto;
+	margin: auto;
+}
+	#head {
+	margin: 30px 0 0 0;
+	font-size: 20px;
+	font-family : Arial, sans-serif;
+}
